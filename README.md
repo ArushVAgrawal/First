@@ -1,4 +1,4 @@
 # First
 This is my first git repository
 <br>
-Author-Arush Agrawal
+Author-Arush V Agrawal
